@@ -1,0 +1,1 @@
+# splunk-results-analyser
